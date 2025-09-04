@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexanderyliu
 - 👀 I’m interested in Evolutionary and Developmental Genomics.
 - 🌱 I’m currently learning it.
-- 📫 How to reach me: email = all056@ucsd.edu or X = @alexanderyliu
+- 📫 How to reach me: email = all056@ucsd.edu or X/Bluesky = @alexanderyliu
 - 😄 Pronouns: he/him
 
 <!---
